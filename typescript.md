@@ -1,4 +1,2 @@
-typescript
 
-babel
 
