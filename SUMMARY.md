@@ -11,4 +11,5 @@
 * [Redux](redux.md)
 * [Graphql](graphql.md)
 * [Packages](building-library.md)
+* [TypeScript](typescript.md)
 
