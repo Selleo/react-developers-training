@@ -1,5 +1,3 @@
-stylebook
-
 reactstrap
 
 styled-components
