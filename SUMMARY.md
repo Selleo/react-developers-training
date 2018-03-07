@@ -8,4 +8,7 @@
 * [Forms](forms.md)
 * [Testing](testing.md)
 * [API calls](api-calls.md)
+* [Redux](redux.md)
+* [Graphql](graphql.md)
+* [Packages](building-library.md)
 
