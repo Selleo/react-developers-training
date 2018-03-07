@@ -6,11 +6,12 @@
 * [HOCs & Render Props](higher-order-components.md)
 * [UI & Styling](styling.md)
 * [Forms](forms.md)
+* [Router](router.md)
 * [Testing](testing.md)
 * [API calls](api-calls.md)
 * [Redux](redux.md)
 * [Graphql](graphql.md)
 * [Packages](building-library.md)
 * [TypeScript](typescript.md)
-* [SSR](ssr.md)
+* [SSR](router.md)
 
