@@ -12,4 +12,5 @@
 * [Graphql](graphql.md)
 * [Packages](building-library.md)
 * [TypeScript](typescript.md)
+* [SSR](ssr.md)
 

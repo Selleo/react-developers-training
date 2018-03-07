@@ -8,5 +8,5 @@ Create React App
 
 Project structure
 
-ESlint & Prittier
+Code style \(i.e. ESlint & Prittier\)
 
