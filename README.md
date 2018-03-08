@@ -20,5 +20,5 @@ Learn how to extract package or contribute fix/feature to package you use
 
 Build SEO friendly static-progressive React applications and websites
 
-Get to know Graphql and strong typed development
+Get to know GraphQL and strong typed development
 
