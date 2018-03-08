@@ -12,7 +12,7 @@ Learn how to build forms in React, without the tears 😭
 
 Build Single Page App with Router & API calls
 
-Write tests
+Write tests. Not too many. Mostly integration.
 
 Use Redux to cross component state management
 
