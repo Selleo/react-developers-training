@@ -1,5 +1,7 @@
 # React Developers Training
 
+by [React Developers @ Selleo](https://selleo.com)
+
 Start with getting to know [JavaScript Ecosystem](https://tb.gitbooks.io/react-developers-training/content/chapter1.html)
 
 Read [Official Docs](https://reactjs.org/docs/)
@@ -21,4 +23,3 @@ Learn how to extract package or contribute fix/feature to package you use
 Build SEO friendly static-progressive React applications and websites
 
 Get to know GraphQL and strong typed development
-
