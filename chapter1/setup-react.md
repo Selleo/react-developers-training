@@ -1,4 +1,4 @@
-## Setup React {#setup}
+# React Project Setup
 
 [Try React online or set up your local development environment](https://reactjs.org/docs/try-react.html)
 
@@ -6,10 +6,6 @@
 
 * [Getting started](https://github.com/facebookincubator/create-react-app#getting-started)
 * [User Guide](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md)
-
-## Project structure
-
-
 
 
 
