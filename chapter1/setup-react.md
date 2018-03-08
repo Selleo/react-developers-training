@@ -9,11 +9,7 @@
 
 ## Project structure
 
-## Code style
 
-[JavaScript Style Guide](https://www.gitbook.com/book/tb/react-developers-training/edit#)
-
-[Formatting Code Automatically](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md#formatting-code-automatically)
 
 
 
