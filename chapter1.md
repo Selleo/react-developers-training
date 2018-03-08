@@ -2,15 +2,19 @@
 
 ## JavaScript {#javascript}
 
-[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+[A re-introduction to JavaScript \(JS tutorial\)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+
+* Control structures
+* Objects
+* [Destructuring](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
+* [Arrays](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
+* Functions
+* [Arrow Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
+* Closures
 
 [ES2015 Overview in 350 Bullet Points](https://ponyfoo.com/articles/es6)
 
-Understanding ES2015
-
-* [Destructuring for Easier Data Access](https://leanpub.com/understandinges6/read#leanpub-auto-destructuring-for-easier-data-access)
-* [Arrow Functions](https://leanpub.com/understandinges6/read#leanpub-auto-arrow-functions)
-* [Encapsulating Code With Modules](https://leanpub.com/understandinges6/read#leanpub-auto-encapsulating-code-with-modules)
+[Encapsulating Code With Modules](https://leanpub.com/understandinges6/read#leanpub-auto-encapsulating-code-with-modules)
 
 ## NPM & Yarn {#npm}
 
@@ -31,6 +35,8 @@ Understanding ES2015
 * [Getting started](https://github.com/facebookincubator/create-react-app#getting-started)
 * [User Guide](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md)
 
+
+
 ## Project structure
 
 ## Code style
@@ -38,6 +44,4 @@ Understanding ES2015
 [JavaScript Style Guide](https://www.gitbook.com/book/tb/react-developers-training/edit#)
 
 [Formatting Code Automatically](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md#formatting-code-automatically)
-
-
 
