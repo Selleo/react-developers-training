@@ -1,7 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
-* [Ecosystem](chapter1.md)
+* [JavaScript](chapter1.md)
+* [React](chapter1/setup-react.md)
 * [Components](thinking-in-components.md)
 * [HOCs & Render Props](higher-order-components.md)
 * [UI & Styling](styling.md)
