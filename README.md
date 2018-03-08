@@ -12,7 +12,7 @@ Get to know recommended UI & Styling tools
 
 Learn how to build forms in React, without the tears 😭
 
-Build Single Page App 🚀 with Router & API calls
+Build Single Page App 🚀with Router & API calls
 
 Write tests. Not too many. Mostly integration.
 
