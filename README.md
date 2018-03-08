@@ -6,13 +6,13 @@ Start with getting to know [JavaScript Ecosystem](https://tb.gitbooks.io/react-d
 
 Read [Official Docs](https://reactjs.org/docs/)
 
-Learn key patterns HOCs & Render Props
+Learn key patterns  HOCs & Render Props
 
 Get to know recommended UI & Styling tools
 
 Learn how to build forms in React, without the tears 😭
 
-Build Single Page App with Router & API calls
+Build Single Page App 🚀 with Router & API calls
 
 Write tests. Not too many. Mostly integration.
 
@@ -23,3 +23,4 @@ Learn how to extract package or contribute fix/feature to package you use
 Build SEO friendly static-progressive React applications and websites
 
 Get to know GraphQL and strong typed development
+
