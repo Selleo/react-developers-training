@@ -1,6 +1,6 @@
 # React Developers Training
 
-by [React Developers @ Selleo](https://selleo.com)
+by [React Developers @ Selleo](https://selleo.com/react-js)
 
 Start with getting to know [JavaScript Ecosystem](https://tb.gitbooks.io/react-developers-training/content/chapter1.html)
 
